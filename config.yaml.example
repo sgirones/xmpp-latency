@@ -1,0 +1,9 @@
+---
+source:
+  jid: user1@xmpp-domain
+  password: user1
+  endpoint: xmpp-domain:5222
+destination:
+  jid: user2@xmpp-domain
+  password: user2
+  endpoint: xmpp-domain:5222
